@@ -1,0 +1,7 @@
+names:
+- car
+- EV_plate
+- illegal_plate
+nc: 3
+train: D:\projects\content\dataset\train.txt
+val: D:\projects\content\dataset\val.txt
