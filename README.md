@@ -1,3 +1,3 @@
 # plate_detection
 
-This code is using yolov5 weight model and easyocr 
+video_text_recognition.py is using yolov5 weight model and easyocr 
